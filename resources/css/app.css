@@ -1,0 +1,160 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .custom-text-size1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.custom-text-size2 {
+    color: grey;
+    margin-top: 20px;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.custom-text-size3 {
+    color: white;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.custom-text-size4 {
+    color: white;
+
+} */
+
+/* 
+.containersm {
+    background-color: #FF5722;
+    padding-left: 150px;
+    padding-top: 200px;
+    height: 80vh;
+}
+
+#bottom {
+    margin-top: 10px;
+}
+
+.container1 {
+    margin-left: 150px;
+    margin-top: 125px;
+    height: 70vh;
+}
+
+.orange-box {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #FF5722;
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+    width: 330px;
+}
+
+.img-qr {
+    width: 100px;
+}
+
+.small-container {
+    color: rgb(121, 119, 119);
+    opacity: 80%;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    width: 280px;
+    font-size: 10px;
+}
+
+.container2 {
+        text-align: center;
+        justify-content: center;
+        background-color: #F4F4F4; 
+        padding: 40px;
+        height: 100vh; 
+}
+
+.content-bawah {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold; 
+}
+
+.btn-about {
+    margin-top: 15px;
+    @apply bg-orange-500 text-white font-bold py-3.5 px-6 rounded-full;
+    transition: background-color 0.3s;
+}
+
+.btn-about:hover {
+    @apply bg-orange-600;
+}
+
+.btn-app {
+    margin-top: 15px;
+    margin-right: 10px;
+    @apply bg-white text-orange-500 py-3.5 px-6 rounded-full;
+    transition: background-color 0.3s;
+}
+
+.btn-play {
+    margin-top: 15px;
+    @apply bg-white text-orange-500 py-3.5 px-6 rounded-full;
+    transition: background-color 0.3s;
+}
+
+.homeheader {
+    padding-left: 120px;
+    padding-top: 12px;
+    display: flex;
+    white-space: nowrap;
+    height: 7vh;
+    background-color: gray;
+    opacity: 40%;
+}
+
+.homeheader a,
+.homeheader p {
+    display: inline; 
+    margin: 0;
+}
+
+.cards {
+    margin-top: -70px;
+}
+
+
+.group.relative {
+    margin-bottom: 1rem; 
+}
+
+.carddp {
+    margin-top: 20px;
+    width: 350px;
+}
+
+.picsdp {
+    background-color: rgb(238, 238, 238);
+    padding-left: 110px;
+    padding-right: 110px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.titledp {
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+.descdp {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.containerdp {
+    display: flex;
+} */
